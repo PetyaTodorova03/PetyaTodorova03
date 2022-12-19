@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PetyaTodorova03
-- 👀 I’m interested in reading, codding and running
-- 🌱 I’m currently learning html, css and Js
+- 👀 I’m interested in web design, codding and testing
+- 🌱 I’m currently learning web design in NBU
 - 📫 p.todorova03@gmail.com
 
 <!---
